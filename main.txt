@@ -1,5 +1,5 @@
 fichier commun 
 version initiale
 Ligne_A modification Nathan
-Ligne_B modification par Nathan
-Ligne_C modifiée par C
+Ligne_B modification par B
+Ligne_C modifiée par Nathan
