@@ -1,5 +1,5 @@
 fichier commun 
 version initiale
 Ligne_A modification étape6 user c 
-Ligne_B modification par Bdfddgdfgdfgdf
+Ligne_B modification par B
 Ligne_C modifiée par Nathan
